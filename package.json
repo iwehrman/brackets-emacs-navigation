@@ -2,6 +2,7 @@
     "name": "brackets-emacs-navigation",
     "description": "Emacs-style navigation commands for Brackets",
     "version": "0.1.0",
+    "author" : "Ian Wehrman <ian@wehrman.org>",
     "homepage": "https://github.com/iwehrman/brackets-emacs-navigation/",
     "bugs": "https://github.com/iwehrman/brackets-emacs-navigation/issues",
     "repository" : { 
